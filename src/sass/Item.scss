@@ -1,0 +1,45 @@
+.item-container{
+  border-left: 5px solid #03B443;
+  font-size: 1.2rem;
+}
+
+.collapse-bar{
+  background-color: #FFFFFF;
+  align-items: center;
+  margin-top: 10px;
+  padding: 10px 0;
+}
+
+.collapse-bar p{
+  padding: 0;
+  margin: 0;
+  
+}
+
+.bold{
+  font-weight: 700;
+}
+
+.content-center{
+  text-align: center;
+}
+
+.custom-row{
+  align-items: center;
+}
+
+
+@media screen and (max-width: 768px) {
+  .collapse-bar{
+    text-align: center;
+    padding: 10px;
+  }
+  .img-avatar{
+    margin: 10px auto;
+    padding: 10px;
+  }
+
+  .collapse-bar p{
+    padding: 5px;
+  }
+}

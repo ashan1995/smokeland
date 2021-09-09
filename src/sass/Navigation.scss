@@ -1,0 +1,17 @@
+.navibar{
+    &_brandname{
+        font-size: 1.6rem;
+        font-weight: 500;
+    }
+
+    &_link{
+        font-size: 1.2rem;
+        margin: 0 2rem;
+      
+    
+    &_selected{
+        border-bottom: 3px solid #E800D8;
+    }
+    
+    }
+}

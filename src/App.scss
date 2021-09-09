@@ -1,0 +1,21 @@
+@import "~bootstrap/scss/bootstrap";
+@import "sass/main.scss";
+
+.App {
+
+}
+
+.App-header {
+  background-color: #FAFAFA;
+  min-height: 100vh;
+}
+
+.btn-details{
+  font-size: 1.2rem;
+  float: right;
+  padding: 1rem 4rem;
+  border: none;
+  background-color: #E800D8;
+  color: white;
+  border-radius: 5px;
+}
